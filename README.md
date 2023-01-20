@@ -1,1 +1,1 @@
-# Intractive-Rating-Btn..
+# html-css-js-project-boilerplate
